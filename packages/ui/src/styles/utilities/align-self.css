@@ -1,0 +1,21 @@
+@breakpoints {
+  .ap-r-as-start {
+    align-self: flex-start;
+  }
+
+  .ap-r-as-center {
+    align-self: center;
+  }
+
+  .ap-r-as-end {
+    align-self: flex-end;
+  }
+
+  .ap-r-as-baseline {
+    align-self: baseline;
+  }
+
+  .ap-r-as-stretch {
+    align-self: stretch;
+  }
+}

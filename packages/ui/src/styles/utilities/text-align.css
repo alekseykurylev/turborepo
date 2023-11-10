@@ -1,0 +1,13 @@
+@breakpoints {
+  .ap-r-ta-left {
+    text-align: left;
+  }
+
+  .ap-r-ta-center {
+    text-align: center;
+  }
+
+  .ap-r-ta-right {
+    text-align: right;
+  }
+}

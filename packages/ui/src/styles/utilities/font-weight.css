@@ -1,0 +1,25 @@
+@breakpoints {
+  .ap-r-weight-300 {
+    font-weight: var(--font-weight-300);
+  }
+
+  .ap-r-weight-400 {
+    font-weight: var(--font-weight-400);
+  }
+
+  .ap-r-weight-500 {
+    font-weight: var(--font-weight-500);
+  }
+
+  .ap-r-weight-600 {
+    font-weight: var(--font-weight-600);
+  }
+
+  .ap-r-weight-700 {
+    font-weight: var(--font-weight-700);
+  }
+
+  .ap-r-weight-800 {
+    font-weight: var(--font-weight-800);
+  }
+}

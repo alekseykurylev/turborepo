@@ -1,0 +1,17 @@
+@breakpoints {
+  .ap-r-fd-row {
+    flex-direction: row;
+  }
+
+  .ap-r-fd-column {
+    flex-direction: column;
+  }
+
+  .ap-r-fd-row-reverse {
+    flex-direction: row-reverse;
+  }
+
+  .ap-r-fd-column-reverse {
+    flex-direction: column-reverse;
+  }
+}

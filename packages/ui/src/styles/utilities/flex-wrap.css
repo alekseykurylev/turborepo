@@ -1,0 +1,13 @@
+@breakpoints {
+  .ap-r-fw-nowrap {
+    flex-wrap: nowrap;
+  }
+
+  .ap-r-fw-wrap {
+    flex-wrap: wrap;
+  }
+
+  .ap-r-fw-wrap-reverse {
+    flex-wrap: wrap-reverse;
+  }
+}

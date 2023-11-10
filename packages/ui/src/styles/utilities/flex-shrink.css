@@ -1,0 +1,9 @@
+@breakpoints {
+  .ap-r-fs-0 {
+    flex-shrink: 0;
+  }
+
+  .ap-r-fs-1 {
+    flex-shrink: 1;
+  }
+}

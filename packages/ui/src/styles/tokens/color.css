@@ -1,0 +1,68 @@
+:root {
+  --color-white: rgba(255, 255, 255, 1);
+  --color-black: rgba(0, 0, 0, 1);
+  --color-cerulean-500: rgba(0, 157, 219, 1);
+  --color-cerulean-400: rgba(77, 182, 221, 1);
+  --color-cerulean-300: rgba(102, 193, 226, 1);
+  --color-cerulean-200: rgba(141, 210, 235, 1);
+  --color-cerulean-100: rgba(177, 230, 250, 1);
+  --color-cerulean-50: rgba(217, 238, 245, 1);
+  --color-cerulean-10: rgba(247, 253, 255, 1);
+  --color-cerulean-link: rgba(0, 143, 200, 1);
+  --color-cerulean-link-hover: rgba(17, 90, 117, 1);
+  --color-mine-shaft-900: rgba(33, 33, 33, 1);
+  --color-mine-shaft-800: rgba(61, 61, 59, 1);
+  --color-mine-shaft-700: rgba(87, 87, 87, 1);
+  --color-mine-shaft-500: rgba(120, 120, 118, 1);
+  --color-mine-shaft-400: rgba(139, 139, 137, 1);
+  --color-mine-shaft-800-a-60: rgba(61, 61, 59, 0.6);
+  --color-bali-hai-700: rgba(67, 95, 114, 1);
+  --color-bali-hai-500: rgba(113, 140, 158, 1);
+  --color-bali-hai-300: rgba(122, 151, 171, 1);
+  --color-bali-hai-200: rgba(149, 172, 188, 1);
+  --color-mystic-500: rgba(208, 214, 222, 1);
+  --color-mystic-300: rgba(220, 227, 235, 1);
+  --color-mystic-200: rgba(227, 233, 239, 1);
+  --color-mystic-100: rgba(237, 244, 250, 1);
+  --color-mystic-50: rgba(245, 247, 249, 1);
+  --color-mystic-40: rgba(247, 249, 252, 1);
+  --color-mystic-20: rgba(251, 252, 253, 1);
+  --color-mystic-300-a-70: rgba(220, 227, 235, 0.7);
+  --color-mystic-300-a-50: rgba(220, 227, 235, 0.5);
+  --color-mystic-300-a-30: rgba(220, 227, 235, 0.3);
+  --color-mystic-300-a-20: rgba(220, 227, 235, 0.2);
+  --color-astronaut-blue-500: rgba(0, 64, 101, 1);
+  --color-blaze-orange-500: rgba(255, 112, 0, 1);
+  --color-alarm-500: rgba(254, 59, 31, 1);
+  --color-alarm-150: rgba(253, 232, 229, 1);
+  --color-alarm-100: rgba(252, 244, 242, 1);
+  --color-success-700: rgba(67, 175, 0, 1);
+  --color-success-500: rgba(85, 217, 4, 1);
+  --color-success-150: rgba(232, 250, 222, 1);
+  --color-success-100: rgba(243, 255, 236, 1);
+  --color-success-link: rgba(56, 147, 0, 1);
+  --color-warning-500: rgba(255, 168, 0, 1);
+  --color-warning-150: rgba(255, 240, 217, 1);
+  --color-warning-100: rgba(255, 246, 229, 1);
+  --color-warning-link: rgba(210, 101, 0, 1);
+  --color-purple-500: rgba(146, 65, 250, 1);
+
+  --color-comp-table-cell-lock-hover: rgba(220, 227, 235, 0.4);
+  --color-comp-table-cell-accent-hover: rgba(237, 250, 255, 1);
+  --color-comp-table-cell-selected-hover: rgba(230, 239, 247, 1);
+  --color-comp-table-cell-alert-hover: rgba(250, 232, 230, 1);
+  --color-comp-table-cell-warn-hover: rgba(252, 239, 212, 1);
+  --color-comp-table-cell-hover: rgba(245, 248, 250, 1);
+}
+
+:root {
+  --default-color-primary: var(--color-cerulean-500);
+  --default-color-text: var(--color-mine-shaft-900);
+  --default-color-body: var(--color-mystic-40);
+  --default-color-error: var(--color-alarm-500);
+  --default-color-link: var(--color-cerulean-link);
+  --default-color-link-hover: var(--color-cerulean-link-hover);
+  --default-color-placeholder: var(--color-mine-shaft-500);
+  --default-color-border: var(--color-mystic-300);
+  --default-color-border-hover: var(--color-bali-hai-300);
+}

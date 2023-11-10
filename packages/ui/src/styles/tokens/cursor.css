@@ -1,0 +1,10 @@
+:root {
+  --cursor-button: pointer;
+  --cursor-checkbox: pointer;
+  --cursor-disabled: not-allowed;
+  --cursor-link: pointer;
+  --cursor-radio: pointer;
+  --cursor-slider-thumb: default;
+  --cursor-slider-thumb-active: default;
+  --cursor-switch: pointer;
+}
